@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1406392925622_1" label="tpFinalJavaUTN" name="tpFinalJavaUTN">
+<item elementID="=data-db" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=gui-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bussines" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=entities" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1406394103187_3" label="entities" name="entities"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1406392708211_0" label="Window Working Set" name="Aggregate for window 1406392708208"/>
+<mruList name="tpFinalJavaUTN"/>
+</workingSetManager>
